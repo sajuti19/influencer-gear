@@ -168,7 +168,10 @@ h5{
     }
     .start-journey-right img{
         width: 100%;
-        margin: 0;
+        margin-left: 0;
+    }
+    .start-journey-right{
+        margin-left: 0;
     }
     .start-journey-left{
         width: 100%;
@@ -191,6 +194,9 @@ h5{
     .start-journey-right img{
         width: 100%;
         margin: 0;
+    }
+    .start-journey-right{
+        margin-left: 0;
     }
     .start-journey-left{
         width: 100%;
